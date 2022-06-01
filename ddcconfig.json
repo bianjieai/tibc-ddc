@@ -1,0 +1,14 @@
+{
+	"contract": {
+		"authorityAddress": "0x7fb94B1bf0Ac7808F6564a8E9D363ba18d158282",
+		"chargeAddress": "0x3607b302457c863854F0E87cBAfed8F58cB806f2",
+		"ddc721BankAddress": "0x0C7f0fD2D89a612Ad2D004168400af5750cDA070",
+		"ddc1155BankAddress": "0x7b74e6C51ee0ad172F66b4311De9929A91b977e7",
+		"authorityProxyAddress": "0x8930DcaE8fbDFc691A430d7B3Ff3FB35216E3C51",
+		"chargeAddressProxyAddress": "0x9D0f2429ce93eEEc9e5B1fEe445eC83f02Cc533A",
+		"ddc721BankProxyAddress": "0x90a3C6598789E9ee9ac0962B778b23766f6d4caC",
+		"ddc1155BankProxyAddress": "0x779B9C6ba89556B0416138A78461470896D3E00c"
+	},
+	"multiSignWalletAddress": "0x8CCE1558A3C0CF48EB2FEAE40B6D9398C7EF4B32",
+	"txs": []
+}
